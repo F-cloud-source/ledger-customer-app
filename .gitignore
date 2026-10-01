@@ -1,3 +1,5 @@
 node_modules/
-.vscode/
+backend/routes/.env
+.env
 dev_C++/
+.DS_Store
