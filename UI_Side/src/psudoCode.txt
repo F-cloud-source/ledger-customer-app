@@ -1,0 +1,8 @@
+built button on UI 
+make a input bar 
+
+when Button is click it need to safe inout bar data in Db 
+ in desired table
+for Api in backedn it should request to add and check do data 
+type is valid or not 
+if valid so send if not so not send and safe 
